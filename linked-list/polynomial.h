@@ -1,6 +1,3 @@
-#ifndef SYDE223_A1_POLYNOMIAL_H
-#define SYDE223_A1_POLYNOMIAL_H
-
 #include "doubly-linked-list.h"
 #include <iostream>
 
