@@ -1,6 +1,3 @@
-#ifndef SYDE223_A1_DOUBLY_LINKED_LIST_H
-#define SYDE223_A1_DOUBLY_LINKED_LIST_H
-
 class DoublyLinkedList {
 public:
     // Can be seen outside as DoublyLinkedList::DataType
