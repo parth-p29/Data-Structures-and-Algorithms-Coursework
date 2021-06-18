@@ -1,5 +1,3 @@
-#ifndef SYDE223_A1_SEQUENTIAL_LIST_H
-#define SYDE223_A1_SEQUENTIAL_LIST_H
 class SequentialList {
 public:
 	// Can be seen outside as SequentialList::DataType
